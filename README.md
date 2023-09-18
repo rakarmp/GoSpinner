@@ -4,8 +4,7 @@
     <p>Package Go is simple to handle loading spinners at terminals with various variants.</p>
 </div>
 
-<video src="record.mp4" controls="controls" style="max-width: 730px;">
-</video>
+https://github.com/rakarmp/GoSpinner/assets/83684256/44acbd80-3e4d-4314-b0f8-2265631e5b81
 
 ### Installation
 
