@@ -19,6 +19,7 @@ func NewLoadingSpinner() *LoadingSpinner {
 	frames["arrow"] = []string{"←", "↖", "↑", "↗", "→", "↘", "↓", "↙"}
 	frames["circle"] = []string{"◐", "◓", "◑", "◒"}
 	frames["star"] = []string{"✶", "✸", "✹", "✺", "✹", "✷"}
+	frames["square"] = []string{"▁", "▂", "▃", "▄", "▅", "▆", "▇", "▉"}
 
 	return &LoadingSpinner{frames}
 }
